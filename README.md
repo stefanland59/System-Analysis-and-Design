@@ -12,3 +12,4 @@ How did you interpret the user’s needs and implement them into your system des
 It is important to make sure that the user is pleased with your design, or else it is pointless. You are either wasting your time or their money, if it doesn't fit their needs. I did my best to tranlate their needs into my design. Non-technical users may not be the best at explaining what they want, so I think it is important to be in constant communication with your client and update them frequently. 
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I would try to design most of the software prior to development, but I would be constantly refining the design throughout the development process. I would use documentation to design the software, but I wouldn't be afraid to change that initial design if I needed to. 
